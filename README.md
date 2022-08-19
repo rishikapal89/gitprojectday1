@@ -1,1 +1,1 @@
-# gitprojectday1
+# gitprojectday1 assignment project
